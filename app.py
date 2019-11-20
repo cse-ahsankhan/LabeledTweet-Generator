@@ -1,5 +1,4 @@
-# author = rhnvrm <hello@rohanverma.net>
-import os
+# author = cse-ahsankhan <https://github.com/cse-ahsankhan>import os
 from flask import Flask, request, render_template, jsonify
 from twitter import TwitterClient
 

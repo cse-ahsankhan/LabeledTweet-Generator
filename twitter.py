@@ -1,4 +1,4 @@
-# author = rhnvrm <hello@rohanverma.net>
+# author = cse-ahsankhan <https://github.com/cse-ahsankhan>
 
 import os
 import re
